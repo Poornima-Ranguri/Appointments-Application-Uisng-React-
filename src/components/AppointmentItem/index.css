@@ -1,0 +1,26 @@
+.list-Item {
+  list-style-type: none;
+
+  border-color: #b5b7c4;
+}
+
+.list-container {
+  width: 350px;
+}
+
+.head-container {
+  border-style: none;
+  border: none;
+  border-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  border-style: none;
+  outline: none;
+}
+
+.star-image {
+  background-size: cover;
+}
